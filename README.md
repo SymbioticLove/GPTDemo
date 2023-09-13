@@ -17,3 +17,5 @@ python email_filter.py input.json
 
 ### Provide email addresses via STDIN
 python email_filter.py
+
+<img src="./test1.png">
