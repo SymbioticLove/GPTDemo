@@ -13,9 +13,9 @@ python email_filter.py [input_file.json]
 ## Example Usage
 
 ### Read from a JSON file
-python email_filter.py input.json
+`python email_filter.py input.json`
 
 ### Provide email addresses via STDIN
-python email_filter.py
-
+`python email_filter.py`
+<div>&nbsp</div>
 <img src="./test1.png">
